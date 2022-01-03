@@ -1,2 +1,2 @@
-# eclipse-springboot-angular
-spring.angular
+# eclipse-springboot
+spring
